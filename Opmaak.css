@@ -1,7 +1,10 @@
 body {
     background-color: lightblue;
   }
-    
+  h1{
+    color:navy;
+    margin-left: 20px;
+  }
   a {
     display: block;
     padding: 8px;
