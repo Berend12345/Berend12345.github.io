@@ -1,22 +1,7 @@
 body {
     background-color: lightblue;
   }
-  
-  h1 {
-    color: navy;
-    margin-left: 20px;
-  }
-  ul {
-    overflow: hidden;
-    width: 100%;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  li {
-    float: left;
-  }
-  
+    
   a {
     display: block;
     padding: 8px;
