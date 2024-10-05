@@ -6,7 +6,6 @@ body {
     margin-left: 20px;
   }
 
-  }
   .Bonanza{
     width: 200px;
   } <!--code voor binarybonanza link ahcter het plaatje-->
@@ -27,8 +26,8 @@ body {
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;<!--code voor ul-->
+    text-decoration: none; 
   }
   p {
-    width: 65%; <!--csscode voor hoever de tekst naar de zijkant van het beeld kan-->
+    width: 65%;  <!-- css code voor hoever de tekst naar de zijkant van het beeld kan-->
   }
