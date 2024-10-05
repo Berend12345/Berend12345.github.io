@@ -8,13 +8,14 @@ body {
 
   .Bonanza{
     width: 200px;
-  } <!--code voor binarybonanza link ahcter het plaatje-->
+  } <!--code voor binarybonanza link achter het plaatje-->
+ 
   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #1100ff;
+    background-color: #333;
   }
   
   li {
@@ -23,10 +24,10 @@ body {
   
   li a {
     display: block;
-    color: rgb(0, 0, 0);
+    color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none; 
+    text-decoration: none;
   }
   p {
     width: 65%;  <!-- css code voor hoever de tekst naar de zijkant van het beeld kan-->
