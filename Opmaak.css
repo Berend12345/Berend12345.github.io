@@ -15,7 +15,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #090084;
+    background-color: #1100ff;
   }
   
   li {
@@ -27,8 +27,8 @@ body {
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration: none;<!--code voor ul-->
   }
   p {
-    width: 65%;
+    width: 65%; <!--csscode voor hoever de tekst naar de zijkant van het beeld kan-->
   }
